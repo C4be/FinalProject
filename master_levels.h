@@ -1,0 +1,4 @@
+#ifndef MASTER_LEVELS_H
+#define MASTER_LEVELS_H
+
+#endif //MASTER_LEVELS_H
