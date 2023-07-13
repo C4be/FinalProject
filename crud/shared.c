@@ -3,20 +3,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "struct/modules.h"
+
+#include "../struct/modules.h"
 //////////////////////////////////////////////////////
-int get_file_size_in_bytes(FILE *pfile) {
-    int size;
-    fseek(pfile, 0, SEEK_END);
-    size = ftell(pfile);
-    rewind(pfile);
-    return size;
-}
-
-
-int get_records_count_in_file(FILE *pfile) {
-    return get_file_size_in_bytes(pfile) / sizeof(modules);
-}
+#include "../size_file/size.h"
 
 int select_modules_by(FILE *db, const char *field, int value) {
     int struct_count = get_records_count_in_file(db);
@@ -94,6 +84,4 @@ int select_modules_by_module_name(FILE *db, char *value){
     }
     return 0;
 }
-int main(){
-    select_modules_by_module_name(fopen("../materials/master_levels.db","r"),"");
-}
+
