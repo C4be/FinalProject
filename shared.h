@@ -1,31 +1,19 @@
 #ifndef SHARED_H
 #define SHARED_H
 
-typedef struct {
-    int id;
-    char module_name[30];
-    int level_memory_number;
-    int ceil_number;
-    int flag_delete;
-} modules;
+#include "./struct/modules.h"
+#include "./struct/levels.h"
+#include "./struct/status_events.h"
 
-typedef struct {
-    int id;
-    int count_ceil_on_level;
-    int flag_security;
-} levels;
+// files work
+int get_file_size_in_bytes(FILE *pfile);
+int get_records_count_in_file(FILE *pfile);
 
-typedef struct {
-    int id;
-    int id_module;
-    int new_id_module;
-    // format: "dd.mm.yyyy\0"
-    char date_of_change[10 + 1];
-    // format: "hh:mm:ss\0"
-    char time_of_time[8 + 1];
-} status_events;
+// select
+int select_modules_by(FILE *db, const char *field, int value);
+int select_modules_by_module_name(FILE *db, char *value);
 
-// insertion TODO: не возвращают указатель файла на начало
+// insertion Warning: не возвращают указатель файла на начало
 int insert_modules(FILE *db, modules *entity);
 int insert_levels(FILE *db, levels *entity);
 int insert_status_events(FILE *db, status_events *entity);
