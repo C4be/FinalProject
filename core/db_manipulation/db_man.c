@@ -63,8 +63,8 @@ int delete_database(char *db_name){
 }
 
 
-int main(){
-    db_list = fopen("../database/list.db","a+");
-
-    return 0;
-}
+//int main(){
+//    db_list = fopen("../database/list.db","a+");
+//
+//    return 0;
+//}
