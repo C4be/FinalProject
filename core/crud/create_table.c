@@ -2,8 +2,6 @@
 // Created by lifefire1 on 16.07.23.
 //
 #include "../table_struct/table_struct.h"
-#include "../table_struct/field_struct.h"
-#include "create_table.h"
 #include "stdio.h"
 #include "string.h"
 #include "stdlib.h"
@@ -32,12 +30,9 @@ int get_field_count(const char *query){
 void fill_table_fields(char *query, Table *table){
     char* token;
     char* delimiter = " (,)";
-//    printf("%d\n", table->field_count);
-    // Пропускаем "create", "table" и название таблицы
     strtok(query, delimiter);
     strtok(NULL, delimiter);
     token = strtok(NULL, delimiter);
-
     int index = 0;
     while (token != NULL) {
         token = strtok(NULL, delimiter);
