@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall -Werror -Wextra -g CMakeFiles/db.dir/core/db_manipulation/db_man.c.o CMakeFiles/db.dir/core/db_manipulation/db_helper.c.o CMakeFiles/db.dir/core/global_var.c.o CMakeFiles/db.dir/core/crud/create_table.c.o -o db 

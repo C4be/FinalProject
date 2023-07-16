@@ -1,0 +1,3 @@
+/home/lifefire1/CLionProjects/database/cmake-build-debug/CMakeFiles/db.dir
+/home/lifefire1/CLionProjects/database/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lifefire1/CLionProjects/database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
