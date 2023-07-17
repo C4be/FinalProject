@@ -3,20 +3,10 @@ project(FinalProject C)
 
 set(CMAKE_C_STANDARD 11)
 
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -Werror -Wextra")
+
 add_executable(
-        FinalProject
-        modules_db.c
-        crud/shared.c
-        crud/shared.h
-        master_levels.c
-        master_levels.h
-        master_modules.c
-        master_modules.h
-        master_status_events.c
-        master_status_events.h
-        struct/modules.h
-        agregations/agregation_func.c
-        agregations/agregation_func.h
-        size_file/size.c
-        size_file/size.h
-        struct/levels.h struct/status_events.h)
+        db
+        core/db_manipulation/db_man.c
+        core/db_manipulation/db_man.h
+        core/db_manipulation/db_helper.c core/global_var.h core/global_var.c core/table_struct/table_struct.h core/crud/create_table.c)
