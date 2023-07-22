@@ -82,6 +82,30 @@
 		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/create_table.h">
 			<Option target="db"/>
 		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/delete.c">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/delete.h">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/insert.c">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/insert.h">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/select.c">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/select.h">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/update.c">
+			<Option target="db"/>
+		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/core/crud/update.h">
+			<Option target="db"/>
+		</Unit>
 		<Unit filename="/home/lifefire1/CLionProjects/database/core/db_manipulation/db_helper.c">
 			<Option target="db"/>
 		</Unit>
