@@ -4,7 +4,7 @@
 
 #define MAX_QUERY_LENGTH 1000
 
-void update(const char *query) {
+void update(char *query) {
     char table_name[MAX_QUERY_LENGTH];
     char new_table_name[MAX_QUERY_LENGTH];
     char update_params[MAX_QUERY_LENGTH];
@@ -62,10 +62,10 @@ void update(const char *query) {
     }
 }
 
-int main() {
-    char query[] = "update madi set name = \"vasyan\",surname = \"bulkin\", salary = 100 where id = 3";
-
-    update(query);
-
-    return 0;
-}
+//int main() {
+//    char query[] = "update madi set name = \"vasyan\",surname = \"bulkin\", salary = 100 where id = 3";
+//
+//    update(query);
+//
+//    return 0;
+//}

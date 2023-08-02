@@ -4,5 +4,5 @@
 
 #ifndef FINALPROJECT_DELETE_H
 #define FINALPROJECT_DELETE_H
-
+int delete(char *query);
 #endif  // FINALPROJECT_DELETE_H

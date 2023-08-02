@@ -127,6 +127,9 @@
 		<Unit filename="/home/lifefire1/CLionProjects/database/core/table_struct/table_struct.h">
 			<Option target="db"/>
 		</Unit>
+		<Unit filename="/home/lifefire1/CLionProjects/database/modules_db.c">
+			<Option target="db"/>
+		</Unit>
 		<Unit filename="/home/lifefire1/CLionProjects/database/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

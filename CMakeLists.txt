@@ -20,4 +20,4 @@ add_executable(
         core/crud/delete.h
         core/crud/update.c
         core/crud/update.h
-)
+        modules_db.c)

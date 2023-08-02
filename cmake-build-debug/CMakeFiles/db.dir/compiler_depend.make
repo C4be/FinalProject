@@ -59,8 +59,8 @@ CMakeFiles/db.dir/core/crud/create_table.c.o: /home/lifefire1/CLionProjects/data
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/crud/delete.c.o: /home/lifefire1/CLionProjects/database/core/crud/delete.c \
   /usr/include/alloca.h \
@@ -118,8 +118,8 @@ CMakeFiles/db.dir/core/crud/delete.c.o: /home/lifefire1/CLionProjects/database/c
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/crud/insert.c.o: /home/lifefire1/CLionProjects/database/core/crud/insert.c \
   /home/lifefire1/CLionProjects/database/core/table_struct/field_struct.h \
@@ -181,8 +181,8 @@ CMakeFiles/db.dir/core/crud/insert.c.o: /home/lifefire1/CLionProjects/database/c
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/crud/select.c.o: /home/lifefire1/CLionProjects/database/core/crud/select.c \
   /home/lifefire1/CLionProjects/database/core/table_struct/field_struct.h \
@@ -244,8 +244,8 @@ CMakeFiles/db.dir/core/crud/select.c.o: /home/lifefire1/CLionProjects/database/c
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/crud/update.c.o: /home/lifefire1/CLionProjects/database/core/crud/update.c \
   /usr/include/alloca.h \
@@ -303,8 +303,8 @@ CMakeFiles/db.dir/core/crud/update.c.o: /home/lifefire1/CLionProjects/database/c
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/db_manipulation/db_helper.c.o: /home/lifefire1/CLionProjects/database/core/db_manipulation/db_helper.c \
   /home/lifefire1/CLionProjects/database/core/global_var.h \
@@ -343,8 +343,8 @@ CMakeFiles/db.dir/core/db_manipulation/db_helper.c.o: /home/lifefire1/CLionProje
   /usr/include/strings.h \
   /usr/include/sys/cdefs.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/db_manipulation/db_man.c.o: /home/lifefire1/CLionProjects/database/core/db_manipulation/db_man.c \
   /home/lifefire1/CLionProjects/database/core/global_var.h \
@@ -383,8 +383,8 @@ CMakeFiles/db.dir/core/db_manipulation/db_man.c.o: /home/lifefire1/CLionProjects
   /usr/include/strings.h \
   /usr/include/sys/cdefs.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
 CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/core/global_var.c \
   /home/lifefire1/CLionProjects/database/core/global_var.h \
@@ -422,13 +422,53 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
   /usr/include/strings.h \
   /usr/include/sys/cdefs.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
 
+CMakeFiles/db.dir/modules_db.c.o: /home/lifefire1/CLionProjects/database/modules_db.c \
+  /home/lifefire1/CLionProjects/database/core/table_struct/field_struct.h \
+  /home/lifefire1/CLionProjects/database/core/table_struct/table_struct.h \
+  /home/lifefire1/CLionProjects/database/core/crud/create_table.h \
+  /home/lifefire1/CLionProjects/database/core/crud/delete.h \
+  /home/lifefire1/CLionProjects/database/core/crud/insert.h \
+  /home/lifefire1/CLionProjects/database/core/crud/select.h \
+  /home/lifefire1/CLionProjects/database/core/crud/update.h \
+  /usr/include/bits/floatn-common.h \
+  /usr/include/bits/floatn.h \
+  /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/long-double.h \
+  /usr/include/bits/stdio_lim.h \
+  /usr/include/bits/time64.h \
+  /usr/include/bits/timesize.h \
+  /usr/include/bits/types.h \
+  /usr/include/bits/types/FILE.h \
+  /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/bits/types/__mbstate_t.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/struct_FILE.h \
+  /usr/include/bits/typesizes.h \
+  /usr/include/bits/wordsize.h \
+  /usr/include/features-time64.h \
+  /usr/include/features.h \
+  /usr/include/gnu/stubs-64.h \
+  /usr/include/gnu/stubs.h \
+  /usr/include/stdc-predef.h \
+  /usr/include/stdio.h \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /usr/include/sys/cdefs.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h
+
+
+/home/lifefire1/CLionProjects/database/core/crud/update.h:
+
+/home/lifefire1/CLionProjects/database/core/crud/delete.h:
 
 /usr/include/unistd.h:
-
-/usr/include/bits/unistd_ext.h:
 
 /usr/include/bits/posix_opt.h:
 
@@ -454,6 +494,10 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
 
 /home/lifefire1/CLionProjects/database/core/crud/delete.c:
 
+/usr/include/bits/unistd_ext.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stddef.h:
+
 /usr/include/bits/types/FILE.h:
 
 /usr/include/bits/types/__locale_t.h:
@@ -463,8 +507,6 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
 /usr/include/bits/types.h:
 
 /usr/include/sys/cdefs.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h:
 
 /usr/include/bits/byteswap.h:
 
@@ -497,8 +539,6 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
 /home/lifefire1/CLionProjects/database/core/table_struct/table_struct.h:
 
 /usr/include/strings.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h:
 
 /usr/include/alloca.h:
 
@@ -560,6 +600,8 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
 
 /usr/include/bits/types/struct_timespec.h:
 
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.2.1/include/stdarg.h:
+
 /usr/include/bits/stdio_lim.h:
 
 /usr/include/bits/types/struct_timeval.h:
@@ -581,5 +623,7 @@ CMakeFiles/db.dir/core/global_var.c.o: /home/lifefire1/CLionProjects/database/co
 /usr/include/features.h:
 
 /usr/include/gnu/stubs.h:
+
+/home/lifefire1/CLionProjects/database/modules_db.c:
 
 /usr/include/sys/types.h:

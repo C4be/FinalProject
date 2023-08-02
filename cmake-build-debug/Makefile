@@ -321,6 +321,30 @@ core/global_var.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/db.dir/build.make CMakeFiles/db.dir/core/global_var.c.s
 .PHONY : core/global_var.c.s
 
+modules_db.o: modules_db.c.o
+.PHONY : modules_db.o
+
+# target to build an object file
+modules_db.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/db.dir/build.make CMakeFiles/db.dir/modules_db.c.o
+.PHONY : modules_db.c.o
+
+modules_db.i: modules_db.c.i
+.PHONY : modules_db.i
+
+# target to preprocess a source file
+modules_db.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/db.dir/build.make CMakeFiles/db.dir/modules_db.c.i
+.PHONY : modules_db.c.i
+
+modules_db.s: modules_db.c.s
+.PHONY : modules_db.s
+
+# target to generate assembly for a file
+modules_db.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/db.dir/build.make CMakeFiles/db.dir/modules_db.c.s
+.PHONY : modules_db.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -354,6 +378,9 @@ help:
 	@echo "... core/global_var.o"
 	@echo "... core/global_var.i"
 	@echo "... core/global_var.s"
+	@echo "... modules_db.o"
+	@echo "... modules_db.i"
+	@echo "... modules_db.s"
 .PHONY : help
 
 

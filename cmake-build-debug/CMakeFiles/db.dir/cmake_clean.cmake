@@ -15,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/db.dir/core/db_manipulation/db_man.c.o.d"
   "CMakeFiles/db.dir/core/global_var.c.o"
   "CMakeFiles/db.dir/core/global_var.c.o.d"
+  "CMakeFiles/db.dir/modules_db.c.o"
+  "CMakeFiles/db.dir/modules_db.c.o.d"
   "db"
   "db.pdb"
 )

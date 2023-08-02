@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/lifefire1/CLionProjects/database/core/db_manipulation/db_helper.c" "CMakeFiles/db.dir/core/db_manipulation/db_helper.c.o" "gcc" "CMakeFiles/db.dir/core/db_manipulation/db_helper.c.o.d"
   "/home/lifefire1/CLionProjects/database/core/db_manipulation/db_man.c" "CMakeFiles/db.dir/core/db_manipulation/db_man.c.o" "gcc" "CMakeFiles/db.dir/core/db_manipulation/db_man.c.o.d"
   "/home/lifefire1/CLionProjects/database/core/global_var.c" "CMakeFiles/db.dir/core/global_var.c.o" "gcc" "CMakeFiles/db.dir/core/global_var.c.o.d"
+  "/home/lifefire1/CLionProjects/database/modules_db.c" "CMakeFiles/db.dir/modules_db.c.o" "gcc" "CMakeFiles/db.dir/modules_db.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

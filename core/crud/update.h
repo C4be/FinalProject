@@ -4,5 +4,5 @@
 
 #ifndef FINALPROJECT_UPDATE_H
 #define FINALPROJECT_UPDATE_H
-
+void update(const char *query);
 #endif  // FINALPROJECT_UPDATE_H
